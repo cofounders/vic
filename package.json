@@ -6,7 +6,7 @@
   "description": "Veronica's Irritating Cyborg",
   "dependencies": {
     "hubot": "^2.16.0",
-    "hubot-cah": "https://github.com/jasonrhodes/hubot-cah/tarball/master",
+    "hubot-cah": "git+https://github.com/jasonrhodes/hubot-cah.git",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.2.2",
     "hubot-google-translate": "^0.2.0",
